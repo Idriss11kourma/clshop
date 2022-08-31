@@ -1,0 +1,35 @@
+body {
+	background-color: rgb(5, 0, 86);
+}
+/*Design de la formulaire*/
+#formulaire {
+	background-color: white;
+	width: 500px;
+	margin: auto;
+	margin-top: 150px;
+}
+#formulaire img {
+	border-radius: 50%;
+	height: 130px;
+	width: 130px;
+	margin: auto;
+	display: block;
+}
+
+#formulaire input {
+	margin: 0 10px;
+	padding: 10px;
+	width: 450px;
+}
+#formulaire button {
+	background-color: rgb(5, 0, 86);
+	margin:0 10px 10px 10px;
+	width: 475px;
+	color: #FFF;
+	padding: 10px;
+	text-transform: uppercase;
+}
+#formulaire .input{
+	margin: auto;
+	width: 475px;
+}
